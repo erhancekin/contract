@@ -25,6 +25,7 @@
             v-model="second"
             label="ETH Blocked"
             readonly
+            disabled
             ></v-text-field>
           <v-text-field
             ref="city"
@@ -73,11 +74,11 @@
 <script>
   export default {
     data: () => ({
-      first: "$ 3200",
-      second: "$ 3200",
-      third: "$ 0,85",
+      first: "$ 2495",
+      second: "$ 0,1",
+      third: "$ 0,80",
       fourth: "$ 2000",
-      fifth: "0x000056469456434861534414"
+      fifth: "0x563FE49697B9eec5cd2F701047dEa4221caF0402"
     }),
 }
 </script>
