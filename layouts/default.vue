@@ -62,12 +62,12 @@ export default {
       items: [
         {
           icon: 'mdi-apps',
-          title: 'Employee',
+          title: 'Employer',
           to: '/'
         },
         {
           icon: 'mdi-chart-bubble',
-          title: 'Contructor',
+          title: 'Contractor',
           to: '/inspire'
         }
       ],
