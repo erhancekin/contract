@@ -12,7 +12,7 @@
         ></v-img>
       </v-card>
       <v-card ref="form">
-        <v-card-title class="justify-center" style="font-size:2em" >Employee Form</v-card-title>
+        <v-card-title class="justify-center" style="font-size:2em" >Employer Form</v-card-title>
         <v-card-text>
           <v-text-field
             ref="name"
